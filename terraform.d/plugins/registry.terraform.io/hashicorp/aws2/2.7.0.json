@@ -1,0 +1,10 @@
+{
+  "archives": {
+    "darwin_amd64": {
+      "hashes": [
+        "h1:Uy6NrGnfRtilfKr3oPGslrJvnJn1XbDkzWhfBcMA32A="
+      ],
+      "url": "terraform-provider-aws_2.7.0_darwin_amd64.zip"
+    }
+  }
+}
